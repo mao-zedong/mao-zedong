@@ -6,7 +6,7 @@
 - [mao-zedong.net](http://mao-zedong.net)
 
 
-- [Windows-qt](https://mega.nz/#!ctB0XZaY!yORVYVzA7SPfSbGEvd7cpz79WWqVwDWQxfUvwYC9LUA)
+- [Wallet-qt](https://github.com/mao-zedong/wallet-qt)
 
 
 - [Blockexplorer](http://explorer.mao-zedong.net:3001)
